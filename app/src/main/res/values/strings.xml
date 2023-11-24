@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Drawable Comparison by Tag</string>
+    <string name="same">Two Bs</string>
+    <string name="different">A and B</string>
+</resources>
